@@ -1,3 +1,5 @@
+header
+
 # --------------------------------------------
 # Script Name: Basic R (object-oriented programming)
 # Purpose: This provide an overview of RStudio and show
@@ -444,8 +446,10 @@ vector_mean
 #   return(y)
 # }
 
-source("src/add_three.R")
+source("../src/add_three.R")
 add_three(5)
+
+getwd()
 
 quadratic <- function(a, b, c){
   root1 <- (-b + sqrt(b^2 - 4 * a * c)) / (2 * a)
