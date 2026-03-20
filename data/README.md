@@ -1,2 +1,2 @@
-# tutorial_2026
-This tutorial introduces fundamental skills and methods in data-intensive ecology, designed for graduate students engaged in ecological research. Participants will learn how to efficiently manage, analyze, and visualize large ecological datasets, including time-series, spatial, and biodiversity data. The tutorial emphasizes practical applications, combining theoretical concepts with hands-on exercises using real-world ecological data. By the end of the course, students will be able to apply data-intensive approaches to their own research questions and gain a deeper understanding of modern ecological analysis techniques.
+# data_2026
+本仓库泳衣存放输入数据
